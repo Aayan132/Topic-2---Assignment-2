@@ -14,8 +14,8 @@
             Console.WriteLine();
             Console.WriteLine("Task 4: The area of a circle with radius 3 cm is " + (Math.Round(Math.PI * 3 * 3, 1)));
             Console.WriteLine();
-            Console.WriteLine("Task 5: C# decides whether plus means add or join based on the data type. " +
-                "If both are numbers, it adds them. If one is a string, it joins them as text.  more info");
+            Console.WriteLine("Task 5: C# decides whether plus means add or join based on the data type (ex. int, double, and string) " +
+                "If both are numbers, it adds them. If one is a string, it joins them as text.");
             Console.WriteLine();
             Console.ReadLine();
         }
